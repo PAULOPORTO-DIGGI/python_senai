@@ -16,4 +16,4 @@
 | git log | visualizar a lista
 | git checkout -b | "comando checkout muda de branch pra outra" cria nova funcionalidade cria e muda de branch|
 | git checkout nome da branch | muda de uma branch para outra|
-
+| git branch -d| excluir
