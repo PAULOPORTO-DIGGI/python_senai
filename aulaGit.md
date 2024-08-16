@@ -10,3 +10,4 @@
 | git config --global user.mail 'email'| configura o email do usuario git|
 | git config --list | lista as configurações git|
 | git comit - m 'primeiro commit' | cria o primeiro ponto de restauração|
+| git branch | Visualiza as branch
