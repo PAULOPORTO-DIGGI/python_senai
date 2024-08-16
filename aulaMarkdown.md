@@ -1,0 +1,70 @@
+# TÍTULO NIVEL 1
+## TÍTULO NIVEL 2
+### TÍTULO NIVEL 3
+#### TÍTULO NIVEL 4
+##### TÍTULO NIVEL 5
+###### TÍTULO NIVEL 6
+
+APRENDENDO A LINGUAGEM DE MARCAÇÃO ***MARKDOWN*** NO CURSO DE *PYTHON* DO _SENAI_.
+
+---
+
+|EAN|DESCRIÇÃO|NCM|
+|-|-|-|
+|784900010015| COCA COLA 290| 22021000
+
+
+# LISTA NÃO ORDENADAS
+
+- COMO CRIAR TITULOS
+- COMO CRIAR PARAGRÁFOS
+- COMO DESTACAR PALAVRAS OU TRECHOS
+    - Itálico
+    - Negrito
+    - Itálico e negrito
+
+    # LISTA ORDENADA
+
+1. COMO CRIAR TITULOS
+1. COMO CRIAR PARAGRÁFOS
+1. COMO DESTACAR PALAVRAS OU TRECHOS
+
+# CRIANDO LINK
+
+[CLIQUE AQUI PARA SER DIRECIONADO AO SITE DO PRATIKA](https://pratika.appspot.com/)
+
+### INSERINDO IMAGEM
+
+![LOGO PRATIKA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdf48wB1JWOACXMf0Jj7ADASWaA2lPUUa1NA&s)
+
+
+![LOGO python](img\python.png)
+
+## LINK COM IMAGEM
+
+[![LOGO python](img\python.png)](https://pratika.appspot.com/)
+
+
+
+
+
+|AULA|DESCRIÇÃO|
+|:-:|-|
+|01| ABERTURA DE CURSO
+|02| FINALIZANDO MARDOWN E INSERINDO CONCEITOS DE DIRETÓRIOS|
+
+- [X] MARKDOWN
+- [X] GIT
+- [X] PYTHON
+
+`print('Hello world')`
+
+```python
+print('HELLO WORLD!')
+print('HELLO WORLD!')
+print('HELLO WORLD!')
+```
+
+
+
+
