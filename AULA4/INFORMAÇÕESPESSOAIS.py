@@ -1,25 +1,23 @@
 # INFORMAÇÕES CADASTRO DO CLIENTE
+## numero1 = int(input('digite o primeiro numero \n'))
 
 
 
-nome = 'PAULO IVO PORTO'
 
-idade = 43
+nome = str(input('DIGITE SEU NOME \n'))
 
-estado = 'BRASILIA'
+idade = int(input('SUA IDADE \n'))
 
-sexo = 'MASCULINO'
+estado = str(input('DIGITE SEU ESTADO \n'))
 
-endereco = "Quadra QNO 15 CONJUNTO A CASA"
+sexo = str(input('DIGITE SEU SEXO \n'))
 
-numero = 16
+endereco = str(input('DIGITE O ENDERECO \n'))
 
-cpf = 91056624191
+numero = str(input('DIGITE O NUMERO DO ENDERECO \n'))
 
-cnpj = 13910819000138
+cpf = int(input( 'DIGITE SEU CPF \n'))
 
-situacao = 'ativo'
+cnpj = int(input( 'DIGITE SEU CNPJ \n'))
 
-email = "tec.pauloporto@gmail.com"
-
-print('nome')
+email = str(input('DIGITE SEU EMAIL \n'))
