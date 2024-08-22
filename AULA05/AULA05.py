@@ -4,14 +4,14 @@
 
 # numero2 = 10
 
-# print(numero1 >numero2)
+# print(numero1 > numero2)
 
-# print(numero2 >numero1)
+# print(numero2 > numero1)
 
 # # OPERADOR < MENOR
 
 # print(numero1 < numero2)
-# print(numero2 <numero1)
+# print(numero2 < numero1)
 
 
 # # OPERADORES == (IGUAL) 
