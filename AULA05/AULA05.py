@@ -64,7 +64,7 @@
 
 
 
-##idade = int(input('Informe sua idade: \n'))
+## idade = int(input('Informe sua idade: \n'))
 
 ##if (idade < 18):
     ##acompanhado = input('Esta acompanhado de adulto sim ou não? \n')

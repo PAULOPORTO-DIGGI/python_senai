@@ -9,7 +9,7 @@
 # if candidato == 13:
 #     print('Votou no Lula')
 # elif candidato == 22:
-#     print('Votou no Bolsonara')
+#     print('Votou no Bolsonararo')
 
 # else:
 #     print('Candidato Inválido')
