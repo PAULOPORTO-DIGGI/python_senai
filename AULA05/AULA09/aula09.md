@@ -2,7 +2,7 @@
 
 - capitalise
 - uper
--lower
+- lower
 - replace
 - strip
 - split
