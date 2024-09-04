@@ -12,6 +12,9 @@ elif numero ==3:
 
 else:
     print('Nenhuma das alternativas')
+
+
+    
     
 
 
